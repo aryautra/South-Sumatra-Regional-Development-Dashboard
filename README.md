@@ -37,7 +37,7 @@ Interactive regional monitoring of **17 regencies and cities** in South Sumatra,
 Poverty rate and number of poor people, open unemployment rate (TPT), Human Development Index (IPM), Gini ratio, GRDP at current prices, and per-capita GRDP growth (constant 2010 prices, area level only). Source: BPS Provinsi Sumatera Selatan. Verify figures against BPS before reusing them.
 
 ## Run it
-Open `SouthSumatra_Dashboard.html` in any browser. To update the data, replace the embedded `DATA` object in the file.
+Open index.html in any browser. To update the data, replace the embedded `DATA` object in the file.
 
 ## Skills demonstrated
 Data collection and cleaning, regional development analysis, interactive dashboard design, AI-assisted building with human verification.
