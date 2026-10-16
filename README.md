@@ -8,7 +8,7 @@ Tip: rename SouthSumatra_Dashboard.html to index.html and enable GitHub Pages to
 
 Interactive regional monitoring of **17 regencies and cities** in South Sumatra, **2015-2025**, using official BPS statistics.
 
-**Live demo:** `https://<your-username>.github.io/<repo-name>/`
+**Live demo:** `https://aryautra.github.io/South-Sumatra-Regional-Development-Dashboard/`
 
 ## What it does
 - **Region vs region:** compare any two areas, with the province as a reference line.
